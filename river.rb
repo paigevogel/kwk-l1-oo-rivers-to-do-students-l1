@@ -20,8 +20,6 @@ end
 
 nile=River.new("Nile", 4258, "Tanzania, Uganda, Rwanda, Burundi, the Democratic Republic of the Congo, Kenya, Ethiopia, Eritrea, South Sudan, Sudan and Egypt", 99940)
 
-mississippi=River.new("Mississippi", 2320, "United States", )
+mississippi=River.new("Mississippi", 2320, "United States", 593000)
 
-puts nile.discharge
-nile.dry_up
-puts nile.discharge
+amazon=River.new("Amazon", )
