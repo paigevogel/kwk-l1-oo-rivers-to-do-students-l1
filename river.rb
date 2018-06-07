@@ -9,4 +9,4 @@ class River
   end
 end
 
-river = 
+river1 = River.new("The Nile", "")
