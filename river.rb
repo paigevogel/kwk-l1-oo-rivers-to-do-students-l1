@@ -6,4 +6,7 @@ class River
     @name=name
     @countries=countries 
     @discharge=discharge
-    
+  end
+end
+
+river = 
