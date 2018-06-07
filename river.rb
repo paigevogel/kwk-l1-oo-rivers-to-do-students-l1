@@ -26,4 +26,4 @@ amazon=River.new("Amazon", 4345, "Peru, Bolivia, Venezuela, Colombia, Ecuador, a
 
 seine=River.new("Seine", 482, "France", 17660)
 
-yangtze=River.new("yangtze", )
+yangtze=River.new("yangtze", 3915, "")
