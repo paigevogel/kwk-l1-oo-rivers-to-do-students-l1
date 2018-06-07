@@ -15,10 +15,11 @@ class River
    
   def dry_up 
     @discharge = @discharge - @discharge*0.5
+  end
 end
 
 nile=River.new("Nile", 4258, "Tanzania, Uganda, Rwanda, Burundi, the Democratic Republic of the Congo, Kenya, Ethiopia, Eritrea, South Sudan, Sudan and Egypt", 99940)
 
 puts nile.discharge
-nile.flood
+nile.dry_up
 puts nile.discharge
