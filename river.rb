@@ -9,4 +9,4 @@ class River
   end
 end
 
-river1 = River.new("The Nile", "[ "Tanzania", "Uganda", "Rwanda", "Burundi", "the Democratic Republic of the Congo", "Kenya", "Ethiopia", "Eritrea", "South" "Sudan", "Sudan" "Egypt"]"
+river1 = River.new("The Nile", "['Tanzania', 'Uganda', 'Rwanda', 'Burundi', 'Democratic Republic', 'Kenya', 'Ethiopia', 'Eritrea', 'South Sudan', 'Sudan', 'Egypt']",
