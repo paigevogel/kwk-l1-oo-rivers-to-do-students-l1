@@ -22,4 +22,4 @@ nile=River.new("Nile", 4258, "Tanzania, Uganda, Rwanda, Burundi, the Democratic 
 
 mississippi=River.new("Mississippi", 2320, "United States", 593000)
 
-amazon=River.new("Amazon", 4345, "")
+amazon=River.new("Amazon", 4345, " Peru, Bolivia, Venezuela, Colombia, Ecuador, and Brazil", )
